@@ -13,9 +13,7 @@ import numpy as np
 import pandas as pd
 from andi import andi_datasets as AD
 
-from sklearn.pipeline import Pipeline
 from sktime.classification.shapelet_based import MrSEQLClassifier
-from sktime.transformers.series_as_features.compose import ColumnConcatenator
 from sklearn.model_selection import train_test_split
 
 import joblib

@@ -36,7 +36,7 @@ The major goal for the challenge was to apply algorithms to SPT data, which are 
 	* Power spectrum coefficients.
 
 * MrSEQL in 2D and 3D [2]:
-	- the converts the numeric time series vector into strings to create multiple symbolic
+	- converts the numeric time series vector into strings to create multiple symbolic
 representations of the time series. The symbolic representations are then used as input for  a sequence learning algorithm, to select the most discriminative subsequence features for training a classifier using logistic regression.
 
 We used the implementations of the algorithms provided by the `sktime` module. In both cases, default parameters provided the best results. 

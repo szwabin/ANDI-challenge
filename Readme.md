@@ -5,7 +5,7 @@
 This repository contains the necessary codes written in Python 3 to train the classifiers for Task 2 of the ANDI challenge (see https://competitions.codalab.org/competitions/23601). 
 
 Disclaimer:
-The codes are provided as they are. They constitute a quick and dirty solution rather than a well designed application. Thus, use them at your own risk.
+The codes are provided as they are. They constitute a quick and dirty solution rather than a well designed application. Thus, use them at your own risk :).
 
 ## 1. Required modules 
 
@@ -53,4 +53,5 @@ We used the implementations of the algorithms provided by the `sktime` module. I
 ## References
 
 [1] Jason Lines, Sarah Taylor, and Anthony Bagnall. 2018. Time Series Classification with HIVE-COTE: The Hierarchical Vote Collective of Transformation-Based Ensembles. ACM Trans. Knowl. Discov. Data. 12, 5, Article 52 (July 2018), 35 pages.
+
 [2] T. L. Nguyen, S. Gsponer, I. Ilie, M. O'reilly and G. Ifrim Interpretable Time Series Classification using Linear Models and Multi-resolution Multi-domain Symbolic Representations in Data Mining and Knowledge Discovery (DMKD), May 2019, https://doi.org/10.1007/s10618-019-00633-3

@@ -50,6 +50,9 @@ We used the implementations of the algorithms provided by the `sktime` module. I
 5. Use the `task2-*D.py` files to train the classifiers in 1, 2 and 3 dimensions.
 6. Use the `classify.py` code to perform the classification of the challenge dataset.
 
+#### Important note
+If you want to use our classifiers, download them and put to `MyData` subfolder of your working directory.
+
 ## References
 
 [1] Jason Lines, Sarah Taylor, and Anthony Bagnall. 2018. Time Series Classification with HIVE-COTE: The Hierarchical Vote Collective of Transformation-Based Ensembles. ACM Trans. Knowl. Discov. Data. 12, 5, Article 52 (July 2018), 35 pages.
